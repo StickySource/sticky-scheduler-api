@@ -10,10 +10,10 @@
 
 	<groupId>net.stickycode.scheduled</groupId>
 	<artifactId>sticky-scheduler-api</artifactId>
-	<version>1.4-SNAPSHOT</version>
+	<version>2.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>sticky-scheduler-api</name>
+	<name>sticky-scheduler-api-2</name>
 	<description>Defining contracts for executing jobs in the background</description>
 	<inceptionYear>2008</inceptionYear>
 	<url>http://www.StickyCode.net/scheduled/sticky-scheduler-api/</url>
@@ -30,7 +30,7 @@
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>clirr-maven-plugin</artifactId>
 				<configuration>
-					<comparisonVersion>[1.4]</comparisonVersion>
+					<comparisonVersion>[2.1]</comparisonVersion>
 				</configuration>
 			</plugin>
 		</plugins>
